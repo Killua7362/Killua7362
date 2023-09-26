@@ -1,31 +1,100 @@
-<h1 align="center">Hi 👋, I'm Akshay Bhat</h1>
-<h3 align="center">Opensource | Linux </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=killua7362&label=Profile%20views&color=0e75b6&style=flat" alt="killua7362" /> </p>
 
-- 🔭 I’m currently working on [My portfolio website](https://github.com/Killua7362/black-grimoire)
+# Hi there, I'm Akshay Bhat
 
-- 🌱 I’m currently learning **Machine learning**
+## I'm a Developer, Weeb and Power Lifter
 
-- 👨‍💻 All of my projects are available at [https://killua7362.vercel.app/projects](https://killua7362.vercel.app/projects)
+- Have been programming since 5 years
+- Love Arch Linux
+- My favorite programming language is Python and Javascript(Please do not judge me!)
+- I just love it coding be it web development or machine learning or app development
 
-- 💬 Ask me about **Javascript,Python,Linux**
 
-- 📫 How to reach me **bhat7362@gmail.com**
+### Connect with me:
+ [![website](./img/twitter-light.svg)](https://twitter.com/Killua7362)
+    &nbsp;&nbsp;
+    [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/killua7362/)
+    &nbsp;&nbsp;
+    [![website](./img/instagram-light.svg)](https://www.instagram.com/___killuaa/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WXdufDx5dwRs_qX-F26rqw_MwSlXlGxi/view?usp=share_link](https://drive.google.com/file/d/1WXdufDx5dwRs_qX-F26rqw_MwSlXlGxi/view?usp=share_link)
 
-- ⚡ Fun fact **I prefer colemak over qwerty**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/killua7362" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="killua7362" height="30" width="40" /></a>
+### Languages and Tools I know and use:
+<h3 align="left">Programming</h3>
+<p>
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"></img>
+    <img alt="cpp" src="https://img.shields.io/badge/++-2391E6.svg?logo=C&logoColor=white"></img>
+    <img alt="c" src="https://img.shields.io/badge/-2391E6.svg?logo=C&logoColor=white"></img>
+    <img alt="GNU Bash" src="https://img.shields.io/badge/GNU Bash-4EAA25.svg?logo=gnubash&logoColor=white"></img>
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></img>
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white"></img>
+    <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></img>
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></img>
+</p>
+<h3 align="left">Backend-as-a-Service (Baas)</h3>
+<p>
+   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28.svg?logo=Firebase&logoColor=white"></img>
+</p>
+<h3 align="left">Framework & Libraries</h3>
+<p> 
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-2391E6.svg?logo=Flutter&logoColor=white"></img>
+  <img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-v2-FE7A16.svg?logo=Tensorflow&logoColor=white"></img>
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=PyTorch&logoColor=white"></img>
+  <img alt="PyTorch" src="https://img.shields.io/badge/TorchVision-EE4C2C.svg?logo=PyTorch&logoColor=white"></img>
+  <img alt="PyTorch" src="https://img.shields.io/badge/TorchAudio-EE4C2C.svg?logo=PyTorch&logoColor=white"></img>
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-2391E6.svg?logo=OpenCV&logoColor=white"></img>
+</p>
+<h3 align="left">Databases</h3>
+<p>
+    <a href="#"><img alt="PostgreSql" src="https://img.shields.io/badge/PostgreSql-4169E1?logo=postgresql&logoColor=white"></a>
+    <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-003B57.svg?logo=sqlite&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?logo=MySQL&logoColor=white"></a>
+</p>
+<h3 align="left">Software and tools</h3>
+<p>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2391E6.svg?logo=docker&logoColor=white"></img></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?logo=pycharm&logoColor=white"></a>
+    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android Studio-3DDC84.svg?logo=androidstudio&logoColor=white"></a>
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/JupyterNotebook-F37626.svg?logo=Jupyter&logoColor=white"></a>
+    <a href="#"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833.svg?logo=Anaconda&logoColor=white"></a>
+</p>
+<h3 align="left">Cloud Providers</h3>
+<p>
+    <a href="#"><img alt="Amazon AWS" src="https://img.shields.io/badge/AmazonAWS-232F3E.svg?logo=amazonaws&logoColor=white"></a>
+    <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google-Cloud-4285F4.svg?logo=googlecloud&logoColor=white"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=killua7362&show_icons=true&locale=en&layout=compact" alt="killua7362" /></p>
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+1. 🔒 Closed issue [#1235](https://github.com/shadcn-ui/ui/issues/1235) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+2. 🗣 Commented on [#1235](https://github.com/shadcn-ui/ui/issues/1235#issuecomment-1679215686) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+3. ❗ Opened issue [#1235](https://github.com/shadcn-ui/ui/issues/1235) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+4. 🗣 Commented on [#35](https://github.com/GH-Event-Demos/random-name-picker/issues/35#issuecomment-1572138731) in [GH-Event-Demos/random-name-picker](https://github.com/GH-Event-Demos/random-name-picker)
+5. 🎉 Merged PR [#1](https://github.com/codeSTACKr/superhero-extensions/pull/1) in [codeSTACKr/superhero-extensions](https://github.com/codeSTACKr/superhero-extensions)
+<!--END_SECTION:activity-->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=killua7362&show_icons=true&locale=en" alt="killua7362" /></p>
+</details>
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+</details>
+
+[website]: https://codeSTACKr.com
+[course]: http://vsCodeHero.com
+[twitter]: https://twitter.com/codeSTACKr
+[youtube]: https://youtube.com/codeSTACKr
+[instagram]: https://instagram.com/codeSTACKr
+[linkedin]: https://linkedin.com/in/codeSTACKr
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
