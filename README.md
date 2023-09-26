@@ -11,7 +11,7 @@
 - Have been programming since 5 years
 - Love Arch Linux
 - My favorite programming language is Python and Javascript(Please do not judge me!)
-- I just love it coding be it web development or machine learning or app development
+- I just love coding and I have experience in web development, machine learning and app development
 
 
 ### Connect with me:
